@@ -1,0 +1,104 @@
+[W 19:03:00.885 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 19:03:00.893 LabApp] JupyterLab extension loaded from /home/aria/.local/lib/python3.7/site-packages/jupyterlab
+[I 19:03:00.893 LabApp] JupyterLab application directory is /home/aria/.local/share/jupyter/lab
+[I 19:03:00.896 LabApp] Serving notebooks from local directory: /media/aria/4CB9A6A442E7B1CD/BIG DATA/bigmart-sales-data
+[I 19:03:00.896 LabApp] The Jupyter Notebook is running at:
+[I 19:03:00.896 LabApp] http://localhost:8888/?token=0b46058ada255f8be5da5e5529a1ffda91198c2b4db5801f
+[I 19:03:00.897 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:03:00.964 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18317-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0b46058ada255f8be5da5e5529a1ffda91198c2b4db5801f
+[I 19:03:37.154 LabApp] Node v10.15.2
+    
+[I 19:03:37.158 LabApp] Build is up to date
+[W 19:03:38.051 LabApp] Notebook classing.ipynb is not trusted
+[W 19:03:38.216 LabApp] Notebook arms.ipynb is not trusted
+[W 19:03:38.560 LabApp] Notebook seaborn.ipynb is not trusted
+[I 19:03:41.177 LabApp] Kernel started: cbf70f4a-f57b-44ec-9011-16c54d3a42ac
+[I 19:03:41.224 LabApp] Kernel started: 35c2ff30-263e-491d-972d-e4cf43b88f8b
+[I 19:03:41.266 LabApp] Kernel started: 13f3d036-1c66-47f3-bcd5-a7813b0f3503
+[I 19:03:41.302 LabApp] Kernel started: ede9af55-aae8-4a5e-a0b5-d007a4688b32
+[I 19:03:41.369 LabApp] Kernel started: e9353dee-d01c-48ca-980b-abc6f89eaa9a
+[I 19:03:41.425 LabApp] Kernel started: ba0d095a-dc85-47a9-99a2-2ca02316747a
+[I 19:03:41.475 LabApp] Kernel started: 9cf0f586-d828-4224-961d-8d28d6bb73f0
+[I 19:03:41.552 LabApp] Kernel started: 6f81ad46-29b6-425f-94a2-dd40b06c2b19
+[I 19:03:41.655 LabApp] Kernel started: 94207b11-b61b-4218-b4a9-4d1da7149363
+[I 19:03:41.738 LabApp] Kernel started: 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:03:48.161 LabApp] Adapting to protocol v5.1 for kernel cbf70f4a-f57b-44ec-9011-16c54d3a42ac
+[I 19:03:48.183 LabApp] Adapting to protocol v5.1 for kernel cbf70f4a-f57b-44ec-9011-16c54d3a42ac
+[I 19:03:48.219 LabApp] Adapting to protocol v5.1 for kernel 35c2ff30-263e-491d-972d-e4cf43b88f8b
+[I 19:03:48.239 LabApp] Adapting to protocol v5.1 for kernel 35c2ff30-263e-491d-972d-e4cf43b88f8b
+[I 19:03:48.283 LabApp] Adapting to protocol v5.1 for kernel 13f3d036-1c66-47f3-bcd5-a7813b0f3503
+[I 19:03:48.312 LabApp] Adapting to protocol v5.1 for kernel 13f3d036-1c66-47f3-bcd5-a7813b0f3503
+[I 19:03:48.355 LabApp] Adapting to protocol v5.1 for kernel ede9af55-aae8-4a5e-a0b5-d007a4688b32
+[I 19:03:48.388 LabApp] Adapting to protocol v5.1 for kernel ede9af55-aae8-4a5e-a0b5-d007a4688b32
+[I 19:03:48.422 LabApp] Adapting to protocol v5.1 for kernel e9353dee-d01c-48ca-980b-abc6f89eaa9a
+[I 19:03:48.440 LabApp] Adapting to protocol v5.1 for kernel e9353dee-d01c-48ca-980b-abc6f89eaa9a
+[I 19:03:48.468 LabApp] Adapting to protocol v5.1 for kernel ba0d095a-dc85-47a9-99a2-2ca02316747a
+[I 19:03:48.486 LabApp] Adapting to protocol v5.1 for kernel ba0d095a-dc85-47a9-99a2-2ca02316747a
+[I 19:03:48.512 LabApp] Adapting to protocol v5.1 for kernel 94207b11-b61b-4218-b4a9-4d1da7149363
+[I 19:03:48.555 LabApp] Adapting to protocol v5.1 for kernel 94207b11-b61b-4218-b4a9-4d1da7149363
+[I 19:03:48.597 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:03:48.623 LabApp] Adapting to protocol v5.1 for kernel 6f81ad46-29b6-425f-94a2-dd40b06c2b19
+[I 19:03:48.641 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:03:48.659 LabApp] Adapting to protocol v5.1 for kernel 6f81ad46-29b6-425f-94a2-dd40b06c2b19
+[I 19:03:48.701 LabApp] Adapting to protocol v5.1 for kernel 9cf0f586-d828-4224-961d-8d28d6bb73f0
+[I 19:03:48.719 LabApp] Adapting to protocol v5.1 for kernel 9cf0f586-d828-4224-961d-8d28d6bb73f0
+[I 19:03:50.722 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:06:08.372 LabApp] Starting buffering for ba0d095a-dc85-47a9-99a2-2ca02316747a:efa08300-9479-4723-811a-562a49e4520f
+[I 19:06:08.376 LabApp] Starting buffering for e9353dee-d01c-48ca-980b-abc6f89eaa9a:b602edd0-17a4-4a72-9842-3ee4e91458cd
+[I 19:06:08.380 LabApp] Starting buffering for 9cf0f586-d828-4224-961d-8d28d6bb73f0:78e67980-7d68-4f5d-906c-043d50767a1e
+[I 19:06:08.383 LabApp] Starting buffering for 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a:2cf168db-14ef-4d8f-a30f-cd1d0733b471
+[I 19:06:08.385 LabApp] Starting buffering for 6f81ad46-29b6-425f-94a2-dd40b06c2b19:df63ba61-3225-44a4-86f0-2d956249e4bc
+[I 19:06:08.386 LabApp] Starting buffering for cbf70f4a-f57b-44ec-9011-16c54d3a42ac:3639f1e8-f1f2-4606-9b77-39ada974b6d0
+[I 19:06:08.387 LabApp] Starting buffering for ede9af55-aae8-4a5e-a0b5-d007a4688b32:8b9af6e0-7f8c-4d96-8404-59840ca744d7
+[I 19:06:08.387 LabApp] Starting buffering for 35c2ff30-263e-491d-972d-e4cf43b88f8b:c603deaa-8f10-4f23-8039-488cae5480f1
+[I 19:06:08.389 LabApp] Starting buffering for 13f3d036-1c66-47f3-bcd5-a7813b0f3503:4627b558-26ff-4e7d-9e82-dc061770dde3
+[I 19:06:08.390 LabApp] Starting buffering for 94207b11-b61b-4218-b4a9-4d1da7149363:324a1241-9f3b-4e57-8bb9-3c587056c1f7
+[I 19:06:14.050 LabApp] Node v10.15.2
+    
+[I 19:06:14.054 LabApp] Build is up to date
+[W 19:06:14.910 LabApp] Notebook classing.ipynb is not trusted
+[W 19:06:15.072 LabApp] Notebook arms.ipynb is not trusted
+[W 19:06:15.354 LabApp] Notebook seaborn.ipynb is not trusted
+[I 19:06:17.705 LabApp] Adapting to protocol v5.1 for kernel cbf70f4a-f57b-44ec-9011-16c54d3a42ac
+[I 19:06:17.778 LabApp] Adapting to protocol v5.1 for kernel 13f3d036-1c66-47f3-bcd5-a7813b0f3503
+[I 19:06:17.804 LabApp] Adapting to protocol v5.1 for kernel ede9af55-aae8-4a5e-a0b5-d007a4688b32
+[I 19:06:17.831 LabApp] Adapting to protocol v5.1 for kernel e9353dee-d01c-48ca-980b-abc6f89eaa9a
+[I 19:06:17.850 LabApp] Adapting to protocol v5.1 for kernel 94207b11-b61b-4218-b4a9-4d1da7149363
+[I 19:06:17.874 LabApp] Adapting to protocol v5.1 for kernel 35c2ff30-263e-491d-972d-e4cf43b88f8b
+[I 19:06:17.902 LabApp] Adapting to protocol v5.1 for kernel 9cf0f586-d828-4224-961d-8d28d6bb73f0
+[I 19:06:17.933 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:06:17.959 LabApp] Adapting to protocol v5.1 for kernel 6f81ad46-29b6-425f-94a2-dd40b06c2b19
+[I 19:06:17.978 LabApp] Adapting to protocol v5.1 for kernel ba0d095a-dc85-47a9-99a2-2ca02316747a
+[I 19:06:20.551 LabApp] 302 GET / (127.0.0.1) 1.05ms
+[I 19:06:20.596 LabApp] Starting buffering for cbf70f4a-f57b-44ec-9011-16c54d3a42ac:900aa06a-7448-43a7-9971-fa3455d0b376
+[I 19:06:20.599 LabApp] Starting buffering for 13f3d036-1c66-47f3-bcd5-a7813b0f3503:f7760c4e-85dd-4c85-b15b-90948718564a
+[I 19:06:20.600 LabApp] Starting buffering for ede9af55-aae8-4a5e-a0b5-d007a4688b32:a43c7af7-379b-4d9d-9cc5-867817e02569
+[I 19:06:20.602 LabApp] Starting buffering for e9353dee-d01c-48ca-980b-abc6f89eaa9a:c103eab1-7827-40f1-b17b-0f27887cff02
+[I 19:06:20.603 LabApp] Starting buffering for 94207b11-b61b-4218-b4a9-4d1da7149363:8041e83a-0b67-43fb-8c45-5a60cb6faeee
+[I 19:06:20.604 LabApp] Starting buffering for 35c2ff30-263e-491d-972d-e4cf43b88f8b:a16fb3a6-f2a5-4a6f-b868-b477df811acf
+[I 19:06:20.605 LabApp] Starting buffering for 9cf0f586-d828-4224-961d-8d28d6bb73f0:32271944-32e8-48ea-8bdb-98378d254474
+[I 19:06:20.605 LabApp] Starting buffering for 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a:fd54ced6-16c0-4f22-a65b-c84c0a43fb65
+[I 19:06:20.607 LabApp] Starting buffering for 6f81ad46-29b6-425f-94a2-dd40b06c2b19:1daa8422-35a8-4791-a467-c6fd5f49ae5e
+[I 19:06:20.608 LabApp] Starting buffering for ba0d095a-dc85-47a9-99a2-2ca02316747a:9be4733c-6900-4639-b0c8-ea11d9decde8
+[I 19:06:22.434 LabApp] Node v10.15.2
+    
+[I 19:06:22.454 LabApp] Build is up to date
+[W 19:06:22.669 LabApp] Notebook classing.ipynb is not trusted
+[W 19:06:22.827 LabApp] Notebook arms.ipynb is not trusted
+[W 19:06:23.163 LabApp] Notebook seaborn.ipynb is not trusted
+[I 19:06:25.311 LabApp] Adapting to protocol v5.1 for kernel cbf70f4a-f57b-44ec-9011-16c54d3a42ac
+[I 19:06:25.363 LabApp] Adapting to protocol v5.1 for kernel 13f3d036-1c66-47f3-bcd5-a7813b0f3503
+[I 19:06:25.381 LabApp] Adapting to protocol v5.1 for kernel ede9af55-aae8-4a5e-a0b5-d007a4688b32
+[I 19:06:25.408 LabApp] Adapting to protocol v5.1 for kernel 6f81ad46-29b6-425f-94a2-dd40b06c2b19
+[I 19:06:25.427 LabApp] Adapting to protocol v5.1 for kernel e9353dee-d01c-48ca-980b-abc6f89eaa9a
+[I 19:06:25.445 LabApp] Adapting to protocol v5.1 for kernel 35c2ff30-263e-491d-972d-e4cf43b88f8b
+[I 19:06:25.463 LabApp] Adapting to protocol v5.1 for kernel ba0d095a-dc85-47a9-99a2-2ca02316747a
+[I 19:06:25.481 LabApp] Adapting to protocol v5.1 for kernel 9cf0f586-d828-4224-961d-8d28d6bb73f0
+[I 19:06:25.498 LabApp] Adapting to protocol v5.1 for kernel 94207b11-b61b-4218-b4a9-4d1da7149363
+[I 19:06:25.523 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
+[I 19:06:31.083 LabApp] Adapting to protocol v5.1 for kernel 9c0c00d1-5ce7-49c4-aa40-33c5a992a96a
